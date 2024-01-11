@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/balun/static/css/main.51eab2e8.css",
+    "main.js": "/balun/static/js/main.74bb079a.js",
+    "static/js/787.0521065e.chunk.js": "/balun/static/js/787.0521065e.chunk.js",
+    "static/media/SF-Pro-Display-Semibold.otf": "/balun/static/media/SF-Pro-Display-Semibold.79eabb3c4c68acdcccbf.otf",
+    "static/media/SF-Pro-Display-Regular.otf": "/balun/static/media/SF-Pro-Display-Regular.7fd613066beb52632931.otf",
+    "index.html": "/balun/index.html",
+    "main.51eab2e8.css.map": "/balun/static/css/main.51eab2e8.css.map",
+    "main.74bb079a.js.map": "/balun/static/js/main.74bb079a.js.map",
+    "787.0521065e.chunk.js.map": "/balun/static/js/787.0521065e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51eab2e8.css",
+    "static/js/main.74bb079a.js"
+  ]
+}
