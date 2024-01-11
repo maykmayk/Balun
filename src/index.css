@@ -1,0 +1,21 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@font-face {
+	font-family: "SfReg";
+	src: url(./assets/font/SF-Pro-Display-Regular.otf);
+}
+@font-face {
+	font-family: "SfBold";
+	src: url(./assets/font/SF-Pro-Display-Semibold.otf);
+}
+
+#root {
+	background-color: #fff;
+	min-height: 100vh;
+}
+
+.w-100 {
+	width: -webkit-fill-available;
+}
