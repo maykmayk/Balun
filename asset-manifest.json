@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Balun/static/css/main.0cc0da7b.css",
-    "main.js": "/Balun/static/js/main.7edefdf2.js",
+    "main.js": "/Balun/static/js/main.bdebca7a.js",
     "static/js/787.0521065e.chunk.js": "/Balun/static/js/787.0521065e.chunk.js",
     "static/media/SF-Pro-Display-Semibold.otf": "/Balun/static/media/SF-Pro-Display-Semibold.79eabb3c4c68acdcccbf.otf",
     "static/media/SF-Pro-Display-Regular.otf": "/Balun/static/media/SF-Pro-Display-Regular.7fd613066beb52632931.otf",
     "index.html": "/Balun/index.html",
     "main.0cc0da7b.css.map": "/Balun/static/css/main.0cc0da7b.css.map",
-    "main.7edefdf2.js.map": "/Balun/static/js/main.7edefdf2.js.map",
+    "main.bdebca7a.js.map": "/Balun/static/js/main.bdebca7a.js.map",
     "787.0521065e.chunk.js.map": "/Balun/static/js/787.0521065e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0cc0da7b.css",
-    "static/js/main.7edefdf2.js"
+    "static/js/main.bdebca7a.js"
   ]
 }
