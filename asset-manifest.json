@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Balun/static/css/main.934acfad.css",
-    "main.js": "/Balun/static/js/main.c9325fe9.js",
+    "main.css": "/Balun/static/css/main.c98e8dce.css",
+    "main.js": "/Balun/static/js/main.72e8aaae.js",
     "static/js/787.0521065e.chunk.js": "/Balun/static/js/787.0521065e.chunk.js",
     "static/media/SF-Pro-Display-Semibold.otf": "/Balun/static/media/SF-Pro-Display-Semibold.79eabb3c4c68acdcccbf.otf",
     "static/media/SF-Pro-Display-Regular.otf": "/Balun/static/media/SF-Pro-Display-Regular.7fd613066beb52632931.otf",
     "index.html": "/Balun/index.html",
-    "main.934acfad.css.map": "/Balun/static/css/main.934acfad.css.map",
-    "main.c9325fe9.js.map": "/Balun/static/js/main.c9325fe9.js.map",
+    "main.c98e8dce.css.map": "/Balun/static/css/main.c98e8dce.css.map",
+    "main.72e8aaae.js.map": "/Balun/static/js/main.72e8aaae.js.map",
     "787.0521065e.chunk.js.map": "/Balun/static/js/787.0521065e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.934acfad.css",
-    "static/js/main.c9325fe9.js"
+    "static/css/main.c98e8dce.css",
+    "static/js/main.72e8aaae.js"
   ]
 }
