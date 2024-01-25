@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Balun/static/css/main.4347863c.css",
-    "main.js": "/Balun/static/js/main.e17fed0c.js",
+    "main.css": "/Balun/static/css/main.e34851b7.css",
+    "main.js": "/Balun/static/js/main.5083698d.js",
     "static/js/787.0521065e.chunk.js": "/Balun/static/js/787.0521065e.chunk.js",
     "static/media/SF-Pro-Display-Semibold.otf": "/Balun/static/media/SF-Pro-Display-Semibold.79eabb3c4c68acdcccbf.otf",
     "static/media/GT-Walsheim-Regular-Trial-BF651b7fc71a47d.otf": "/Balun/static/media/GT-Walsheim-Regular-Trial-BF651b7fc71a47d.ee9ff09fe57183b4789d.otf",
     "index.html": "/Balun/index.html",
-    "main.4347863c.css.map": "/Balun/static/css/main.4347863c.css.map",
-    "main.e17fed0c.js.map": "/Balun/static/js/main.e17fed0c.js.map",
+    "main.e34851b7.css.map": "/Balun/static/css/main.e34851b7.css.map",
+    "main.5083698d.js.map": "/Balun/static/js/main.5083698d.js.map",
     "787.0521065e.chunk.js.map": "/Balun/static/js/787.0521065e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4347863c.css",
-    "static/js/main.e17fed0c.js"
+    "static/css/main.e34851b7.css",
+    "static/js/main.5083698d.js"
   ]
 }
